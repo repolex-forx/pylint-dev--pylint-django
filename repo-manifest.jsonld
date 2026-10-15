@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pylint-dev/pylint-django/commit/370556a75a2b427e326bc98cef14059514df8d61",
       "git:hexsha": "370556a75a2b427e326bc98cef14059514df8d61",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pylint-dev/pylint-django/commit/68dbada8277e30fee7084c35723c42855255bc52",
